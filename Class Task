@@ -1,0 +1,6 @@
+//create a class called person.
+//create a constructor with 3 parameters(persons name ,age and address).initialize the 3 fields.
+//create a method to display persons detail.
+//create a method named myDetails that accepts person object as parameter. the method shld call the display details method.
+//pass the current instance of the persons object to a method called printCurrentInstance.
+//create an obj in main class by your name.
